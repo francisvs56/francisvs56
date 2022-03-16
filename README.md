@@ -1,4 +1,6 @@
-Hello! I'm Francis, Data Scientist and Software Developer. I have spent most of my working time around research and data. Recently I have been spending a lot of time building software applications in React and React Native.
+Hello! I'm Francis, Data Scientist and Software Developer. I have spent most of my working time around research and data.
+
+Recently I have been spending a lot of time building software applications in React and React Native.
 
 Currently I am learning about TensorFlow and React Native, looking forward to mixing both to create a great mobile application.
 
