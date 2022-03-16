@@ -1,6 +1,6 @@
-I have spent most of my working time in research and data. My background is in Economics and Software Engineering.
+Hello! I'm Francis, Data Scientist and Software Developer. I have spent most of my working time around research and data. Recently I have been spending a lot of time building software applications in React and React Native.
 
-Currently I am learning about TensorFlow and React Native and am looking forward to mixing both to create a mobile application.
+Currently I am learning about TensorFlow and React Native, looking forward to mixing both to create a great mobile application.
 
 Feel free to reach out!
 
