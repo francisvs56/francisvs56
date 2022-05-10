@@ -1,4 +1,4 @@
-Hello! I'm Francis, Data Scientist and Software Developer. I have spent most of my working time around research and data.
+Hello! I'm Francis, Software Developer and Data Scientist. I have spent most of my working time around research and data.
 
 Recently I have been spending a lot of time building software applications in React and React Native.
 
